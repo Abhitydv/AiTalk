@@ -1,4 +1,4 @@
-# Dockerfile for ChatGPT Clone
+# Dockerfile for AiTalk
 
 FROM python:3.10-slim
 
